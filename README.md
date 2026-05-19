@@ -50,4 +50,4 @@ Não seja um estranho! Se quiser trocar uma ideia sobre lógica ou sobre o álbu
 ---
 <p align="center">
   <i>"I can’t relate to desperation..." - Exceto quando me perco nos índices do loop for.</i> ✨
-</p># proj10
+</p>
